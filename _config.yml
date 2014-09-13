@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Data Art
+title:            Muzhou Liang
 locale:           en_US
 url:              http://joemliang.github.io
 
@@ -28,9 +28,9 @@ kramdown:
 owner:
   name: Muzhou Liang
   avatar: bio-photo.jpg
-  bio: A Data Artist. Sci-fi fan. 
-  email: 
-  disqus-shortname: 
+  bio: Talk is cheap, show me the data. 
+  email: muzhou.liang@gmail.com
+  disqus-shortname: Muzhou
   twitter: #username
   facebook: #username
   google:
@@ -40,9 +40,9 @@ owner:
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: github.com/joemliang
+  github: joemliang
   stackoverflow: 
-  linkedin: linkedin.com/in/joemliang
+  linkedin: in/joemliang
   instagram: #username
   lastfm: #username
   tumblr: #username
