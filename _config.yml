@@ -28,7 +28,7 @@ kramdown:
 owner:
   name: Muzhou Liang
   avatar: bio-photo.jpg
-  bio: "Describe your self."
+  bio: A Data Artist. Sci-fi fan. 
   email: 
   disqus-shortname: 
   twitter: #username
@@ -40,9 +40,9 @@ owner:
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: #username
-  stackoverflow: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
+  github: github.com/joemliang
+  stackoverflow: 
+  linkedin: linkedin.com/in/joemliang
   instagram: #username
   lastfm: #username
   tumblr: #username
