@@ -1,9 +1,9 @@
 ---
 layout: home
-excerpt: "A responsive Jekyll theme with editorial tendencies by designer Michael Rose."
+excerpt: "A personal website of Muzhou Liang"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
-  feature: texture-feature-01.jpg
-  credit: Texture Lovers
-  creditlink: http://texturelovers.com
+  feature: la-night-from-griffith.jpg
+  credit: Kumar Appaiah
+  creditlink: https://flic.kr/p/dE4nYX
 ---
