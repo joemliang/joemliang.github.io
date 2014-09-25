@@ -11,21 +11,16 @@ image:
   creditlink: http://texturelovers.com
 ---
 
-<style>
-.rChart {
-	display: block;
-    margin-left: auto; 
-    margin-right: auto;
-    width: 800px;
-    height: 400px;
-}  
-</style>
-
-<link rel='stylesheet' href='joemliang.github.io/assets/js/morris/css/morris.css'>
-    
-<script src='joemliang.github.io/assets/js/morris/js/jquery-1.8.2.min.js' type='text/javascript'></script>
-<script src='joemliang.github.io/assets/js/morris/js/raphael-2.1.0.min.js' type='text/javascript'></script>
-<script src='joemliang.github.io/assets/js/morris/js/morris.min.js' type='text/javascript'></script>
+<link rel="stylesheet" href="http://cdn.oesmith.co.uk/morris-0.4.2.min.css">
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
+<script src="http://cdnjs.cloudflare.com/ajax/libs/raphael/2.1.0/raphael-min.js"></script>
+<script src="http://cdn.oesmith.co.uk/morris-0.4.2.min.js"></script>
+  <style>
+    div.Morris {
+      width: 600px;
+      height: 400px;
+    }
+  </style>
 
 <div id = 'chart2' class = 'rChart morris'></div>    
 <script type='text/javascript'>
